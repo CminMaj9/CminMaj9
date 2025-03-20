@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 <br/>
 也喜欢编曲，很喜欢爵士乐，对，很喜欢裘德，藤井风，还有 laufey。
 <br/>
-怎么搞的跟自我介绍一样的，这不应该。
-<br/>
 我比较擅长 Web 开发，会的后端框架主要有 Java 的 SpringBoot 以及 Python 的 FastAPI 以及一点点 Go。
 <br/>
 学习了解过的编程语言有「Java，Python，Go，Rust，Js，Ts，C，C++，PHP」等。
